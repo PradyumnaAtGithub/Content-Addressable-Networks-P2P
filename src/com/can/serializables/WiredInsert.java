@@ -2,7 +2,7 @@ package com.can.serializables;
 
 import java.io.Serializable;
 
-import com.CAN.Nodes.Peer.CommandType;
+import com.can.nodes.Peer.CommandType;
 
 public class WiredInsert implements Serializable {
 
